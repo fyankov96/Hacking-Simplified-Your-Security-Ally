@@ -10,11 +10,11 @@ tags: security, general-advice, passwords, securityawareness, cyberthreats
 
 ---
 
-In today's digital age, where personal and sensitive information is constantly under threat, ensuring your online security is paramount. Cybersecurity breaches and hacking incidents can have far-reaching consequences, from identity theft to financial loss. To help you protect yourself online, we compiled a list of 10 essential tips that you can implement immediately to bolster your online security.
+In today's digital age, where personal and sensitive information is constantly under threat, ensuring your online security is essential. Cybersecurity breaches and hacking incidents can have far-reaching consequences, from identity theft to financial loss. To help you protect yourself online, we compiled a list of 10 essential tips that you can implement immediately to bolster your online security.
 
 **1\. Use Strong, Unique Passwords**
 
-Passwords are the first line of defence. Create strong, complex passwords for your accounts and avoid using the same password across multiple sites. Consider using a trusted password manager to securely generate and store passwords.
+Passwords are the first line of defense. Create strong, complex passwords for your accounts and avoid using the same password across multiple sites. Consider using a trusted password manager to securely generate and store passwords.
 
 **2\. Enable Two-Factor Authentication (2FA)**
 
