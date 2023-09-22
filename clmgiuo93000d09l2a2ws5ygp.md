@@ -5,7 +5,7 @@ seoDescription: "BLASTPASS: The Latest Zero-Click Exploit That Can Hack Your iPh
 datePublished: Tue Sep 12 2023 16:23:00 GMT+0000 (Coordinated Universal Time)
 cuid: clmgiuo93000d09l2a2ws5ygp
 slug: blastpass-zero-click-exploit-hack-your-iphone
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694534544142/bbb0de5a-87cc-431d-9c75-c4fe0346f98f.avif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695382936299/b3722f47-d259-44f2-b841-92d485956b1f.jpeg
 tags: apple, iphone, hacking, vulnerability, blastpass
 
 ---
